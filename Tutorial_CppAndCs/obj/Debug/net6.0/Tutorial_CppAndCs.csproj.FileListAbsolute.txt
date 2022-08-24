@@ -1,0 +1,15 @@
+C:\Users\chris\OneDrive\Mathematical Modeling and Computing (MSc)\cs_programs\Tutorial_CppAndCs\obj\Debug\net6.0\Tutorial_CppAndCs.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Mathematical Modeling and Computing (MSc)\cs_programs\Tutorial_CppAndCs\obj\Debug\net6.0\Tutorial_CppAndCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Mathematical Modeling and Computing (MSc)\cs_programs\Tutorial_CppAndCs\obj\Debug\net6.0\Tutorial_CppAndCs.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Mathematical Modeling and Computing (MSc)\cs_programs\Tutorial_CppAndCs\obj\Debug\net6.0\Tutorial_CppAndCs.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Mathematical Modeling and Computing (MSc)\cs_programs\Tutorial_CppAndCs\obj\Debug\net6.0\Tutorial_CppAndCs.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Mathematical Modeling and Computing (MSc)\cs_programs\Tutorial_CppAndCs\bin\Debug\net6.0\Tutorial_CppAndCs.exe
+C:\Users\chris\OneDrive\Mathematical Modeling and Computing (MSc)\cs_programs\Tutorial_CppAndCs\bin\Debug\net6.0\Tutorial_CppAndCs.deps.json
+C:\Users\chris\OneDrive\Mathematical Modeling and Computing (MSc)\cs_programs\Tutorial_CppAndCs\bin\Debug\net6.0\Tutorial_CppAndCs.runtimeconfig.json
+C:\Users\chris\OneDrive\Mathematical Modeling and Computing (MSc)\cs_programs\Tutorial_CppAndCs\bin\Debug\net6.0\Tutorial_CppAndCs.dll
+C:\Users\chris\OneDrive\Mathematical Modeling and Computing (MSc)\cs_programs\Tutorial_CppAndCs\bin\Debug\net6.0\Tutorial_CppAndCs.pdb
+C:\Users\chris\OneDrive\Mathematical Modeling and Computing (MSc)\cs_programs\Tutorial_CppAndCs\obj\Debug\net6.0\Tutorial_CppAndCs.dll
+C:\Users\chris\OneDrive\Mathematical Modeling and Computing (MSc)\cs_programs\Tutorial_CppAndCs\obj\Debug\net6.0\refint\Tutorial_CppAndCs.dll
+C:\Users\chris\OneDrive\Mathematical Modeling and Computing (MSc)\cs_programs\Tutorial_CppAndCs\obj\Debug\net6.0\Tutorial_CppAndCs.pdb
+C:\Users\chris\OneDrive\Mathematical Modeling and Computing (MSc)\cs_programs\Tutorial_CppAndCs\obj\Debug\net6.0\Tutorial_CppAndCs.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Mathematical Modeling and Computing (MSc)\cs_programs\Tutorial_CppAndCs\obj\Debug\net6.0\ref\Tutorial_CppAndCs.dll
